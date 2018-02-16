@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex writeup"] 1518672014 "writeup.aux" "writeup.bbl" "writeup" 1518672014
+["bibtex writeup"] 1518818257 "writeup.aux" "writeup.bbl" "writeup" 1518818257
   "/usr/share/texlive/texmf-dist/bibtex/bst/base/ieeetr.bst" 1480098433 18361 1a00e58565e7f19bf2b3e1bfb82254ae ""
   "bib.bib" 0 -1 0 ""
-  "writeup.aux" 1518672014 693 7fee367df7c8999590bc27d9f2ac65e7 ""
+  "writeup.aux" 1518816637 693 b81130cd12675ba58a6aefa957c051d0 ""
   "writeup.bcf" 0 -1 0 ""
   (generated)
   "writeup.bbl"
   "writeup.blg"
-["pdflatex"] 1518672014 "writeup.tex" "writeup.pdf" "writeup" 1518672014
+["pdflatex"] 1518816637 "writeup.tex" "writeup.pdf" "writeup" 1518818257
   "/etc/texmf/web2c/texmf.cnf" 1511867709 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1480098666 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
@@ -73,10 +73,10 @@
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1511946096 4132687 2e154733fa0def480c7826861773f502 ""
   "15_epoch_googlenet_sigmoidecay.png" 1518359266 144467 5fadfc07097258c30ce35845279e7dfc ""
   "IEEEtran.cls" 1518622102 281957 5b2e4fa15b0f7eabb840ebf67df4c0f7 ""
-  "writeup.aux" 1518672014 693 7fee367df7c8999590bc27d9f2ac65e7 ""
+  "writeup.aux" 1518816637 693 b81130cd12675ba58a6aefa957c051d0 ""
   "writeup.bbl" 0 -1 0 "bibtex writeup"
-  "writeup.tex" 1518672013 5879 4a18e19d5de37e3fa3944750210dd9b5 ""
+  "writeup.tex" 1518816648 6273 e755f13db2038bbb23815b4009945e48 ""
   (generated)
-  "writeup.aux"
-  "writeup.log"
   "writeup.pdf"
+  "writeup.log"
+  "writeup.aux"
