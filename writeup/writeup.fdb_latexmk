@@ -1,13 +1,12 @@
 # Fdb version 3
-["bibtex writeup"] 1518987687 "writeup.aux" "writeup.bbl" "writeup" 1518987687
+["bibtex writeup"] 1519023727 "writeup.aux" "writeup.bbl" "writeup" 1519023727
   "/usr/share/texlive/texmf-dist/bibtex/bst/base/ieeetr.bst" 1480098433 18361 1a00e58565e7f19bf2b3e1bfb82254ae ""
   "bib.bib" 0 -1 0 ""
-  "writeup.aux" 1518987687 670 a0f08779b21ecd24008a073a140f7c1c ""
+  "writeup.aux" 1519023727 670 abb2a5b59e30f8435ec9644ab82213fb ""
   "writeup.bcf" 0 -1 0 ""
   (generated)
-  "writeup.blg"
   "writeup.bbl"
-["pdflatex"] 1518987687 "writeup.tex" "writeup.pdf" "writeup" 1518987687
+["pdflatex"] 1519023726 "writeup.tex" "writeup.pdf" "writeup" 1519023727
   "/etc/texmf/web2c/texmf.cnf" 1511867709 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1480098666 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
@@ -70,10 +69,10 @@
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1511946096 4132687 2e154733fa0def480c7826861773f502 ""
   "IEEEtran.cls" 1518622102 281957 5b2e4fa15b0f7eabb840ebf67df4c0f7 ""
   "agridecline.png" 1518981612 58991 134d0030cb212e2651317c626076d0ba ""
-  "writeup.aux" 1518987687 670 a0f08779b21ecd24008a073a140f7c1c ""
+  "writeup.aux" 1519023727 670 abb2a5b59e30f8435ec9644ab82213fb ""
   "writeup.bbl" 0 -1 0 "bibtex writeup"
-  "writeup.tex" 1518987686 5074 06e219d81da0b75ced66baf0ce3f0788 ""
+  "writeup.tex" 1519023714 6194 9f991ac3cc9caadee812358146397319 ""
   (generated)
-  "writeup.log"
   "writeup.pdf"
+  "writeup.log"
   "writeup.aux"
