@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2017.11.29)  19 FEB 2018 08:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2017.11.29)  20 FEB 2018 17:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -116,13 +116,59 @@ LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <24.09> not available
 \IEEEPARstartletwidth=\dimen125
 \c@IEEEbiography=\count93
 \@IEEEtranrubishbin=\box27
-) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks15
 )
+\captionmargin=\dimen126
+\captionmargin@=\dimen127
+\captionwidth=\dimen128
+\caption@tempdima=\dimen129
+\caption@indent=\dimen130
+\caption@parindent=\dimen131
+\caption@hangindent=\dimen132
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2->\ifx \@captype \@IEEEta
+blestring \footnotesize \bgroup \par \centering \@IEEEtabletopskipstrut {\norma
+lfont \sffamily \footnotesize #1}\\{\normalfont \sffamily \footnotesize #2}\par
+ \addvspace {0.5\baselineskip }\egroup \@IEEEtablecaptionsepspace \else \@IEEEf
+igurecaptionsepspace \setbox \@tempboxa \hbox {\normalfont \sffamily \footnotes
+ize {#1.}\nobreakspace #2}\ifdim \wd \@tempboxa >\hsize \setbox \@tempboxa \hbo
+x {\normalfont \sffamily \footnotesize {#1.}\nobreakspace }\parbox [t]{\hsize }
+{\normalfont \sffamily \footnotesize \noindent \unhbox \@tempboxa #2}\else \hbo
+x to\hsize {\normalfont \sffamily \footnotesize \box \@tempboxa \hfil }\fi \fi 
+.
+\c@ContinuedFloat=\count94
+) (/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
+\c@subfigure=\count95
+\c@subtable=\count96
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen133
+\extrarowheight=\dimen134
+\NC@list=\toks16
+\extratabsurround=\skip44
+\backup@length=\skip45
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2017/06/13 v1.2b Standard LaTeX Graphics (DPC,SPQR)
 
@@ -137,8 +183,8 @@ Package graphics Info: Driver file: pdftex.def on input line 99.
 (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2017/06/17 v1.0e Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen126
-\Gin@req@width=\dimen127
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
 )
 (/usr/share/texlive/texmf-dist/tex/latex/cite/cite.sty
 LaTeX Info: Redefining \cite on input line 302.
@@ -149,36 +195,72 @@ Package: cite 2015/02/27  v 5.5
 LaTeX Warning: Unused global option(s):
     [jaurnal].
 
-(./writeup.aux)
+(./writeup.aux
+
+LaTeX Warning: Label `fig:A' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:A' multiply defined.
+
+
+LaTeX Warning: Label `fig:B' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:B' multiply defined.
+
+
+LaTeX Warning: Label `fig:C' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:C' multiply defined.
+
+
+LaTeX Warning: Label `fig:ABC' multiply defined.
+
+
+LaTeX Warning: Label `fig:robot1' multiply defined.
+
+
+LaTeX Warning: Label `fig:robot1' multiply defined.
+
+
+LaTeX Warning: Label `fig:robot1' multiply defined.
+
+
+LaTeX Warning: Label `TS' multiply defined.
+
+)
 \openout1 = `writeup.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
 
 -- Lines per column: 61 (exact).
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count94
-\scratchdimen=\dimen128
+\scratchcounter=\count97
+\scratchdimen=\dimen137
 \scratchbox=\box28
-\nofMPsegments=\count95
-\nofMParguments=\count96
-\everyMPshowfont=\toks16
-\MPscratchCnt=\count97
-\MPscratchDim=\dimen129
-\MPnumerator=\count98
-\makeMPintoPDFobject=\count99
-\everyMPtoPDFconversion=\toks17
+\nofMPsegments=\count98
+\nofMParguments=\count99
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count100
+\MPscratchDim=\dimen138
+\MPnumerator=\count101
+\makeMPintoPDFobject=\count102
+\everyMPtoPDFconversion=\toks18
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -235,41 +317,41 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 27.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 24.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <8.03> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 27.
-LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 27
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 24.
+LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 24
 .
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <11.04124> on input line 27.
+(Font)              <11.04124> on input line 24.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7.72884> on input line 27.
+(Font)              <7.72884> on input line 24.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5.52061> on input line 27.
-LaTeX Font Info:    Try loading font information for U+pzd on input line 27.
+(Font)              <5.52061> on input line 24.
+LaTeX Font Info:    Try loading font information for U+pzd on input line 24.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/upzd.fd
 File: upzd.fd 2001/06/04 font definitions for U/pzd.
 )
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <11.04124> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 30.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 27.
 LaTeX Font Info:    Font shape `OT1/phv/bx/sc' in size <11.04124> not available
 
-(Font)              Font shape `OT1/phv/b/sc' tried instead on input line 30.
+(Font)              Font shape `OT1/phv/b/sc' tried instead on input line 27.
 Missing character: There is no â in font pplr7t!
 Missing character: There is no † in font pplr7t!
 Missing character: There is no “ in font pplr7t!
 <agridecline.png, id=1, 308.352pt x 209.583pt>
 File: agridecline.png Graphic file (type png)
 <use agridecline.png>
-Package pdftex.def Info: agridecline.png  used on input line 37. on input line 
-37.
+Package pdftex.def Info: agridecline.png  used on input line 34. on input line 
+34.
 Package pdftex.def Info: Requested size: 252.94499pt x 171.92632pt on input lin
-e 37.
+e 34.
 Missing character: There is no â in font pplr7t!
 Missing character: There is no € in font pplr7t!
 Missing character: There is no ™ in font pplr7t!
@@ -277,27 +359,147 @@ Missing character: There is no ™ in font pplr7t!
 
 
  <./agridecline.png>]
-No file writeup.bbl.
-[2
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <9.53561> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 50.
+LaTeX Font Info:    Calculating math sizes for size <9.53561> on input line 57.
 
-] (./writeup.aux) ) 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9.53561> on input line 57.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6.6749> on input line 57.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <4.7678> on input line 57.
+<0.png, id=13, 361.35pt x 361.35pt>
+File: 0.png Graphic file (type png)
+<use 0.png>
+Package pdftex.def Info: 0.png  used on input line 60. on input line 60.
+Package pdftex.def Info: Requested size: 101.17645pt x 101.1773pt on input line
+ 60.
+<1.png, id=14, 361.35pt x 361.35pt>
+File: 1.png Graphic file (type png)
+<use 1.png>
+Package pdftex.def Info: 1.png  used on input line 63. on input line 63.
+Package pdftex.def Info: Requested size: 101.17645pt x 101.1773pt on input line
+ 63.
+<2.png, id=15, 361.35pt x 361.35pt>
+File: 2.png Graphic file (type png)
+<use 2.png>
+Package pdftex.def Info: 2.png  used on input line 66. on input line 66.
+Package pdftex.def Info: Requested size: 101.17645pt x 101.1773pt on input line
+ 66.
+<0a.jpg, id=16, 256.96pt x 256.96pt>
+File: 0a.jpg Graphic file (type jpg)
+<use 0a.jpg>
+Package pdftex.def Info: 0a.jpg  used on input line 74. on input line 74.
+Package pdftex.def Info: Requested size: 101.17645pt x 101.17853pt on input lin
+e 74.
+<1a.jpg, id=17, 256.96pt x 256.96pt>
+File: 1a.jpg Graphic file (type jpg)
+<use 1a.jpg>
+Package pdftex.def Info: 1a.jpg  used on input line 77. on input line 77.
+Package pdftex.def Info: Requested size: 101.17645pt x 101.17853pt on input lin
+e 77.
+<2a.jpg, id=18, 256.96pt x 256.96pt>
+File: 2a.jpg Graphic file (type jpg)
+<use 2a.jpg>
+Package pdftex.def Info: 2a.jpg  used on input line 80. on input line 80.
+Package pdftex.def Info: Requested size: 101.17645pt x 101.17853pt on input lin
+e 80.
+
+Underfull \vbox (badness 5563) has occurred while \output is active []
+
+ [2 <./0.png (PNG copy)> <./1.png (PNG copy)> <./2.png (PNG copy)> <./0a.jpg> <
+./1a.jpg> <./2a.jpg>]
+<googlenet.png, id=22, 642.14906pt x 416.30531pt>
+File: googlenet.png Graphic file (type png)
+<use googlenet.png>
+Package pdftex.def Info: googlenet.png  used on input line 110. on input line 1
+10.
+Package pdftex.def Info: Requested size: 252.94499pt x 163.9846pt on input line
+ 110.
+<training.png, id=23, 1279.02844pt x 903.375pt>
+File: training.png Graphic file (type png)
+<use training.png>
+Package pdftex.def Info: training.png  used on input line 120. on input line 12
+0.
+Package pdftex.def Info: Requested size: 252.94499pt x 178.6455pt on input line
+ 120.
+<learning.png, id=24, 1601.985pt x 673.76718pt>
+File: learning.png Graphic file (type png)
+<use learning.png>
+Package pdftex.def Info: learning.png  used on input line 127. on input line 12
+7.
+Package pdftex.def Info: Requested size: 252.94499pt x 106.3759pt on input line
+ 127.
+<left-prediction.png, id=25, 562.35094pt x 192.72pt>
+File: left-prediction.png Graphic file (type png)
+<use left-prediction.png>
+Package pdftex.def Info: left-prediction.png  used on input line 140. on input 
+line 140.
+Package pdftex.def Info: Requested size: 233.06917pt x 79.87437pt on input line
+ 140.
+<straight-prediction.png, id=26, 564.60938pt x 193.47281pt>
+File: straight-prediction.png Graphic file (type png)
+<use straight-prediction.png>
+Package pdftex.def Info: straight-prediction.png  used on input line 143. on in
+put line 143.
+Package pdftex.def Info: Requested size: 233.06917pt x 79.86461pt on input line
+ 143.
+<right-prediction.png, id=27, 563.85657pt x 192.72pt>
+File: right-prediction.png Graphic file (type png)
+<use right-prediction.png>
+Package pdftex.def Info: right-prediction.png  used on input line 146. on input
+ line 146.
+Package pdftex.def Info: Requested size: 233.06917pt x 79.6597pt on input line 
+146.
+<left-activation.png, id=28, 884.55469pt x 493.0922pt>
+File: left-activation.png Graphic file (type png)
+<use left-activation.png>
+Package pdftex.def Info: left-activation.png  used on input line 155. on input 
+line 155.
+Package pdftex.def Info: Requested size: 233.06917pt x 129.92393pt on input lin
+e 155.
+<straight-activation.png, id=29, 880.03781pt x 493.845pt>
+File: straight-activation.png Graphic file (type png)
+<use straight-activation.png>
+Package pdftex.def Info: straight-activation.png  used on input line 158. on in
+put line 158.
+Package pdftex.def Info: Requested size: 233.06917pt x 130.7854pt on input line
+ 158.
+<right-activation.png, id=30, 904.88063pt x 496.10344pt>
+File: right-activation.png Graphic file (type png)
+<use right-activation.png>
+Package pdftex.def Info: right-activation.png  used on input line 161. on input
+ line 161.
+Package pdftex.def Info: Requested size: 233.06917pt x 127.78023pt on input lin
+e 161.
+ (./writeup.bbl) [3 <./googlenet.png (PNG copy)>] [4 <./training.png (PNG copy)
+> <./learning.png (PNG copy)> <./left-prediction.png (PNG copy)> <./straight-pr
+ediction.png (PNG copy)> <./right-prediction.png (PNG copy)> <./left-activation
+.png (PNG copy)> <./straight-activation.png (PNG copy)> <./right-activation.png
+ (PNG copy)>] (./writeup.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 2445 strings out of 492995
- 40132 string characters out of 6135072
- 101870 words of memory out of 5000000
- 5979 multiletter control sequences out of 15000+600000
- 40042 words of font info for 87 fonts, out of 8000000 for 9000
- 1144 hyphenation exceptions out of 8191
- 41i,6n,25p,1488b,287s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}<
-/usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/t
-exlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf
--dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/urw/zapfding/uzdr.pfb>
-Output written on writeup.pdf (2 pages, 92769 bytes).
+ 3717 strings out of 492995
+ 62583 string characters out of 6135072
+ 120324 words of memory out of 5000000
+ 7221 multiletter control sequences out of 15000+600000
+ 43681 words of font info for 92 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,19n,46p,1488b,505s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatin
+o/uplri8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
+
+Output written on writeup.pdf (4 pages, 2787599 bytes).
 PDF statistics:
- 31 PDF objects out of 1000 (max. 8388607)
- 20 compressed objects within 1 object stream
+ 56 PDF objects out of 1000 (max. 8388607)
+ 27 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
 
